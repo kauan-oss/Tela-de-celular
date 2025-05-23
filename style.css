@@ -56,3 +56,12 @@ body{
     border-radius: 8px;
 }
 
+@media(max-width 100%) { 
+.seçao{
+    flex-direction: column;
+}
+
+.texto, .imagem{
+    padding: 10px;
+}
+}
