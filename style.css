@@ -39,6 +39,11 @@ body{
     text-align: center;
 }
 
+.texto p{
+    line-height: 2em;
+    margin-bottom: 1.5em;
+}
+
 .imagem{
     flex: 1;
     text-align: center;
